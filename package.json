@@ -1,0 +1,14 @@
+{
+  "name": "jstransformer-marked-it",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "marked-it-core": "^0.15.0"
+  }
+}
